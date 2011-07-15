@@ -6,7 +6,7 @@ Stupid simple deployment for cluster.js applications.
 
 Add a file deploy.js to your project
 
-    require("deploy.js").CLI();
+    require("deployjs").CLI();
 
 Add a project .deployspec
 
