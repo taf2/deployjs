@@ -1,0 +1,8 @@
+{
+  "name": "deployjs",
+  "version": "0.0.1",
+  "devDependencies": {
+    "vows": "0.5.8"
+  },
+  "engines": { "node": "*" }
+}

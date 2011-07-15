@@ -1,0 +1,6 @@
+{
+  "name": "secure",
+  "dir": "/home/taf2/apps",
+  "host": "spin",
+  "branch": "master"
+}
