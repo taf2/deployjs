@@ -1,8 +1,12 @@
 {
   "name": "deployjs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "devDependencies": {
     "vows": "0.5.8"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "http://github.com/taf2/deployjs.git"
   },
   "engines": { "node": "*" }
 }
