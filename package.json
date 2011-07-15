@@ -1,12 +1,11 @@
 {
   "name": "deployjs",
   "version": "0.0.2",
+  "description": "simple cluster.js deployment script",
   "engines": { "node": "*" },
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/taf2/deployjs.git"
-  },
-  "url": "https://github.com/taf2/deployjs",
+  "repository" : "https://github.com/taf2/deployjs.git",
+  "homepage": "https://github.com/taf2/deployjs",
+  "main": "index",
   "devDependencies": {
     "vows": "0.5.8"
   },
