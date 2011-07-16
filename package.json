@@ -6,6 +6,7 @@
   "homepage": "https://github.com/taf2/deployjs",
   "main": "index",
   "devDependencies": {
-    "vows": "0.5.8"
+    "vows": "0.5.8",
+    "sinon": "*"
   }
 }
