@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/taf2/deployjs.png)](http://travis-ci.org/taf2/deployjs)
 =deployjs
 
 Stupid simple deployment for cluster.js applications.
